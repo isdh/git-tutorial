@@ -4,3 +4,4 @@
 
 ## これがブランチの力だ！
 - fix-B
+- hogehogehoge
